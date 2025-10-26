@@ -1,0 +1,30 @@
+Gender,Age,Height(cm),Sport,Level of Satisfaction,Weight (kg)
+F,25,160.6,Y,Very Satisfied ,60
+F,54,170,N,Very Satisfied ,55
+F,30,155.1,Y,Not Satisfied,50
+M,34,165.7,N,Satisfied,80
+M,29,177.2,N,Satisfied,80
+M,48,168.6,N,Satisfied,45
+F,44,166.7,Y,Not Satisfied,70
+M,43,180,Y,Very Satisfied ,100
+F,25,173.5,Y,Not Satisfied,50
+M,51,170,Y,Very Satisfied ,65
+M,50,160,Y,Not Satisfied,78
+M,34,157.5,Y,Very Satisfied ,89
+F,53,150,Y,Very Satisfied ,95
+M,28,165.4,N,Very Satisfied ,90
+M,35,163.5,Y,Very Satisfied ,76
+M,34,190,N,Not Satisfied,81
+F,26,164.3,Y,Very Satisfied ,49
+F,26,169,Y,Very Satisfied ,48
+M,38,180,Y,Satisfied,55
+F,61,174.5,N,Not Satisfied,57
+M,65,174.3,Y,Satisfied,59
+M,49,170,Y,Satisfied,99
+F,57,169,N,Not Satisfied,60
+F,53,157.6,N,Not Satisfied,60
+F,68,166,N,Not Satisfied,60
+F,65,162.5,N,Not Satisfied,57
+F,45,163,Y,Very Satisfied ,70
+F,40,159,Y,Very Satisfied ,68
+M,36,175,Y,Very Satisfied ,60
